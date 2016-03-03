@@ -1,1 +1,0 @@
-# git-clone-https-renato23cps-bitbucket.org-haircutter-team-haircutter-repository
